@@ -198,6 +198,7 @@
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Classic Breakfast Platter ( 10% OFF )</span>
                                             <span class="text-primary">180k<s style="color:red;font-size:12px;text-decoration:strike;">200k</s></span>
+                                            <button>Yuk Beli!</button>
                                         </h5>
                                         <small class="fst-italic">Telur Dadar, Roti Panggang, Sosis atau Bacon, Kentang Goreng, Dan Pilihan Buah-Buahan Segar</small>
                                     </div>
