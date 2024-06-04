@@ -18,7 +18,7 @@
                 <div class="navbar-nav ms-auto py-0 pe-4">
                     <a href="#home" class="nav-item nav-link active">Home</a>
                     <a href="#about" class="nav-item nav-link">Tentang Kami</a>
-                    <a href="#service" class="nav-item nav-link">pelayanan</a>
+                    <a href="#service" class="nav-item nav-link">Services</a>
                     <a href="#menu" class="nav-item nav-link">Menu-menu</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Halaman</a>
