@@ -19,7 +19,7 @@
                     <a href="#home" class="nav-item nav-link active">Home</a>
                     <a href="#about" class="nav-item nav-link">Tentang Kami</a>
                     <a href="#service" class="nav-item nav-link">pelayanan</a>
-                    <a href="#menu" class="nav-item nav-link">Menu</a>
+                    <a href="#menu" class="nav-item nav-link">Menu-menu</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
