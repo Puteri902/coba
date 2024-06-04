@@ -158,7 +158,7 @@
                             <div class="d-flex align-items-center border-start border-5 border-primary px-3">
                                 <h1 class="flex-shrink-0 display-5 text-primary mb-0" data-toggle="counter-up">50</h1>
                                 <div class="ps-4">
-                                    <p class="mb-0">Popular</p>
+                                    <p class="mb-0">Populer</p>
                                     <h6 class="text-uppercase mb-0">Master Chefs</h6>
                                 </div>
                             </div>
