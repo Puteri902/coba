@@ -21,7 +21,7 @@
                     <a href="#service" class="nav-item nav-link">pelayanan</a>
                     <a href="#menu" class="nav-item nav-link">Menu-menu</a>
                     <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
+                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Halaman</a>
                         <div class="dropdown-menu m-0">
                             <a href="#reservation" class="dropdown-item">Booking</a>
                             <a href="#team" class="dropdown-item">Our Team</a>
