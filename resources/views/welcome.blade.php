@@ -8,7 +8,7 @@
     <div class="container-xxl position-relative p-0" id="home">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>2'Resto</h1>
+                <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>resstoran</h1>
                 <!-- <img src="{{ asset('')}}frontend/img/logo.png" alt="Logo"> -->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -17,9 +17,9 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ms-auto py-0 pe-4">
                     <a href="#home" class="nav-item nav-link active">Home</a>
-                    <a href="#about" class="nav-item nav-link">About</a>
-                    <a href="#service" class="nav-item nav-link">Service</a>
-                    <a href="#menu" class="nav-item nav-link">Menu</a>
+                    <a href="#about" class="nav-item nav-link">Tentang Kami</a>
+                    <a href="#service" class="nav-item nav-link">pelayanan</a>
+                    <a href="#menu" class="nav-item nav-link">Menu-menu</a>
                     <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu m-0">
@@ -135,8 +135,8 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
-                    <h1 class="mb-4">Welcome to <i class="fa fa-utensils text-primary me-2"></i>Aresto</h1>
+                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">Tentang Kami</h5>
+                    <h1 class="mb-4">Selamat datang <i class="fa fa-utensils text-primary me-2"></i>Aresto</h1>
                     <p class="mb-4">At Aresto, we pride ourselves on providing an exceptional dining experience. Our
                         menu features a delightful selection of international cuisines, expertly crafted to tantalize
                         your taste buds. From the bold flavors of Asia to the comforting classics of Europe, each dish
