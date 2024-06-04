@@ -135,7 +135,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
+                    <h5 class="section-title ff-secondary text-start text-primary fw-normal">Tentang Kami</h5>
                     <h1 class="mb-4">Welcome to <i class="fa fa-utensils text-primary me-2"></i>Aresto</h1>
                     <p class="mb-4">At Aresto, we pride ourselves on providing an exceptional dining experience. Our
                         menu features a delightful selection of international cuisines, expertly crafted to tantalize
