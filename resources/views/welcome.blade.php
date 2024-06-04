@@ -8,7 +8,7 @@
     <div class="container-xxl position-relative p-0" id="home">
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
             <a href="" class="navbar-brand p-0">
-                <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>Rizil Anabilan Resto</h1>
+                <h1 class="text-primary m-0"><i class="fa fa-utensils me-3"></i>2'Resto</h1>
                 <!-- <img src="{{ asset('')}}frontend/img/logo.png" alt="Logo"> -->
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -38,8 +38,12 @@
             <div class="container my-5 py-5">
                 <div class="row align-items-center g-5">
                     <div class="col-lg-6 text-center text-lg-start">
-                        <h1 class="display-3 text-white animated slideInLeft">Selamat Datang<br>Di Rizil Anabilan Resto</h1>
-                        <p class="text-white animated slideInLeft mb-4 pb-2">kami mengundang Anda untuk merasakan pengalaman kuliner yang autentik dan memuaskan di tengah-tengah keramaian kota. Terletak di jantung pusat kota, restoran kami menawarkan suasana yang hangat dan ramah, cocok untuk bersantai bersama keluarga dan teman..</p>
+                        <h1 class="display-3 text-white animated slideInLeft">Selamat Datang<br>Di Rizil Anabilan Resto
+                        </h1>
+                        <p class="text-white animated slideInLeft mb-4 pb-2">kami mengundang Anda untuk merasakan
+                            pengalaman kuliner yang autentik dan memuaskan di tengah-tengah keramaian kota. Terletak di
+                            jantung pusat kota, restoran kami menawarkan suasana yang hangat dan ramah, cocok untuk
+                            bersantai bersama keluarga dan teman..</p>
                         <a href="" class="btn btn-primary py-sm-3 px-sm-5 me-3 animated slideInLeft">Book A Table</a>
                     </div>
                     <div class="col-lg-6 text-center text-lg-end overflow-hidden">
@@ -61,7 +65,9 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-user-tie text-primary mb-4"></i>
                             <h5>Master Chefs</h5>
-                            <p>Master Chefs is an exquisite culinary experience, where silent mastery meets the art of flavors. Immerse yourself in the perfect blend of sophistication and rich tastes, a journey through culinary excellence.</p>
+                            <p>Master Chefs is an exquisite culinary experience, where silent mastery meets the art of
+                                flavors. Immerse yourself in the perfect blend of sophistication and rich tastes, a
+                                journey through culinary excellence.</p>
                         </div>
                     </div>
                 </div>
@@ -70,7 +76,9 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-utensils text-primary mb-4"></i>
                             <h5>Quality Food</h5>
-                            <p>Experience unparalleled excellence in cuisine at Quality Food. Immerse yourself in the sophisticated blend of flavors, where each dish is crafted with precision, ensuring a delightful culinary journey.</p>
+                            <p>Experience unparalleled excellence in cuisine at Quality Food. Immerse yourself in the
+                                sophisticated blend of flavors, where each dish is crafted with precision, ensuring a
+                                delightful culinary journey.</p>
                         </div>
                     </div>
                 </div>
@@ -79,7 +87,9 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-cart-plus text-primary mb-4"></i>
                             <h5>Online Order</h5>
-                            <p>Explore the ease of online ordering with our seamless platform. Effortlessly discover a world of options from the comfort of your space. Experience convenience and exquisite choices at your fingertips.</p>
+                            <p>Explore the ease of online ordering with our seamless platform. Effortlessly discover a
+                                world of options from the comfort of your space. Experience convenience and exquisite
+                                choices at your fingertips.</p>
                         </div>
                     </div>
                 </div>
@@ -88,7 +98,9 @@
                         <div class="p-4">
                             <i class="fa fa-3x fa-headset text-primary mb-4"></i>
                             <h5>24/7 Service</h5>
-                            <p>Experience our 24/7 service that combines a serene atmosphere with impeccable attention. Embrace tranquility and enjoy exceptional hospitality—where every moment is crafted with care.</p>
+                            <p>Experience our 24/7 service that combines a serene atmosphere with impeccable attention.
+                                Embrace tranquility and enjoy exceptional hospitality—where every moment is crafted with
+                                care.</p>
                         </div>
                     </div>
                 </div>
@@ -105,24 +117,33 @@
                 <div class="col-lg-6">
                     <div class="row g-3">
                         <div class="col-6 text-start">
-                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s" src="{{ asset('')}}frontend/img/about-1.jpg">
+                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.1s"
+                                src="{{ asset('')}}frontend/img/about-1.jpg">
                         </div>
                         <div class="col-6 text-start">
-                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s" src="{{ asset('')}}frontend/img/about-2.jpg" style="margin-top: 25%;">
+                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.3s"
+                                src="{{ asset('')}}frontend/img/about-2.jpg" style="margin-top: 25%;">
                         </div>
                         <div class="col-6 text-end">
-                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s" src="{{ asset('')}}frontend/img/about-3.jpg">
+                            <img class="img-fluid rounded w-75 wow zoomIn" data-wow-delay="0.5s"
+                                src="{{ asset('')}}frontend/img/about-3.jpg">
                         </div>
                         <div class="col-6 text-end">
-                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s" src="{{ asset('')}}frontend/img/about-4.jpg">
+                            <img class="img-fluid rounded w-100 wow zoomIn" data-wow-delay="0.7s"
+                                src="{{ asset('')}}frontend/img/about-4.jpg">
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-6" >
+                <div class="col-lg-6">
                     <h5 class="section-title ff-secondary text-start text-primary fw-normal">About Us</h5>
                     <h1 class="mb-4">Welcome to <i class="fa fa-utensils text-primary me-2"></i>Aresto</h1>
-                    <p class="mb-4">At Aresto, we pride ourselves on providing an exceptional dining experience. Our menu features a delightful selection of international cuisines, expertly crafted to tantalize your taste buds. From the bold flavors of Asia to the comforting classics of Europe, each dish is prepared with care and precision.</p>
-                    <p class="mb-4">Come and discover a world of culinary delights at Aresto. Whether you're joining us for a casual meal or a special occasion, our friendly staff and inviting atmosphere will make your visit truly memorable.</p>
+                    <p class="mb-4">At Aresto, we pride ourselves on providing an exceptional dining experience. Our
+                        menu features a delightful selection of international cuisines, expertly crafted to tantalize
+                        your taste buds. From the bold flavors of Asia to the comforting classics of Europe, each dish
+                        is prepared with care and precision.</p>
+                    <p class="mb-4">Come and discover a world of culinary delights at Aresto. Whether you're joining us
+                        for a casual meal or a special occasion, our friendly staff and inviting atmosphere will make
+                        your visit truly memorable.</p>
                     <div class="row g-4 mb-4">
                         <div class="col-sm-6">
                             <div class="d-flex align-items-center border-start border-5 border-primary px-3">
@@ -161,7 +182,8 @@
             <div class="tab-class text-center wow fadeInUp" data-wow-delay="0.1s">
                 <ul class="nav nav-pills d-inline-flex justify-content-center border-bottom mb-5">
                     <li class="nav-item">
-                        <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill" href="#tab-1">
+                        <a class="d-flex align-items-center text-start mx-3 ms-0 pb-3 active" data-bs-toggle="pill"
+                            href="#tab-1">
                             <i class="fa fa-coffee fa-2x text-primary"></i>
                             <div class="ps-3">
                                 <small class="text-body">Popular</small>
@@ -179,7 +201,8 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill" href="#tab-3">
+                        <a class="d-flex align-items-center text-start mx-3 me-0 pb-3" data-bs-toggle="pill"
+                            href="#tab-3">
                             <i class="fa fa-utensils fa-2x text-primary"></i>
                             <div class="ps-3">
                                 <small class="text-body">Lovely</small>
@@ -193,98 +216,123 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Classic Breakfast Platter.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Classic Breakfast Platter.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Classic Breakfast Platter ( 10% OFF )</span>
-                                            <span class="text-primary">180k<s style="color:red;font-size:12px;text-decoration:strike;">200k</s></span>
+                                            <span class="text-primary">180k<s
+                                                    style="color:red;font-size:12px;text-decoration:strike;">200k</s></span>
                                             <button>Yuk Beli!</button>
                                         </h5>
-                                        <small class="fst-italic">Telur Dadar, Roti Panggang, Sosis atau Bacon, Kentang Goreng, Dan Pilihan Buah-Buahan Segar</small>
+                                        <small class="fst-italic">Telur Dadar, Roti Panggang, Sosis atau Bacon, Kentang
+                                            Goreng, Dan Pilihan Buah-Buahan Segar</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Pancake Stack.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Pancake Stack.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Pancake Stack</span>
                                             <span class="text-primary">125k</span>
                                         </h5>
-                                        <small class="fst-italic">Tumpukan pancake lembut dengan pilihan topping seperti madu, maple syrup, atau buah-buahan.</small>
+                                        <small class="fst-italic">Tumpukan pancake lembut dengan pilihan topping seperti
+                                            madu, maple syrup, atau buah-buahan.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Oatmeal Bowl.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Oatmeal Bowl.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Oatmeal Bowl</span>
                                             <span class="text-primary">90k</span>
                                         </h5>
-                                        <small class="fst-italic"> Bubur oat dengan pilihan topping seperti buah-buahan, kacang-kacangan, atau madu.</small>
+                                        <small class="fst-italic"> Bubur oat dengan pilihan topping seperti buah-buahan,
+                                            kacang-kacangan, atau madu.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Avocado Toast.jpeg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Avocado Toast.jpeg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Avocado Toast</span>
                                             <span class="text-primary">125k</span>
                                         </h5>
-                                        <small class="fst-italic">Roti gandum panggang dengan lapisan alpukat, telur mata sapi, dan taburan rempah.</small>
+                                        <small class="fst-italic">Roti gandum panggang dengan lapisan alpukat, telur
+                                            mata sapi, dan taburan rempah.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Smoothie Bowl.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Smoothie Bowl.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Smoothie Bowl</span>
                                             <span class="text-primary">95k</span>
                                         </h5>
-                                        <small class="fst-italic">Smoothie dari campuran buah-buahan seperti pisang, mangga, dan beri, disajikan dalam mangkuk dengan topping granola, chia seed, dan irisan buah.</small>
+                                        <small class="fst-italic">Smoothie dari campuran buah-buahan seperti pisang,
+                                            mangga, dan beri, disajikan dalam mangkuk dengan topping granola, chia seed,
+                                            dan irisan buah.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Yogurt Parfait.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Yogurt Parfait.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
-                                            <span>Yogurt Parfait  ( 50% OFF )</span>
-                                            <span class="text-primary">125k <s style="color:red;font-size:12px;text-decoration:strike;">225k</s></span>
+                                            <span>Yogurt Parfait ( 50% OFF )</span>
+                                            <span class="text-primary">125k <s
+                                                    style="color:red;font-size:12px;text-decoration:strike;">225k</s></span>
                                         </h5>
-                                        <small class="fst-italic">Lapisan yogurt, granola, dan buah-buahan segar seperti beri, pisang, dan kiwi. Bisa juga ditambah dengan madu atau sirup maple untuk memberikan rasa manis alami.</small>
+                                        <small class="fst-italic">Lapisan yogurt, granola, dan buah-buahan segar seperti
+                                            beri, pisang, dan kiwi. Bisa juga ditambah dengan madu atau sirup maple
+                                            untuk memberikan rasa manis alami.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/English Breakfast.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/English Breakfast.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>English Breakfast</span>
                                             <span class="text-primary">199k</span>
                                         </h5>
-                                        <small class="fst-italic">Sarapan lengkap ala Inggris yang terdiri dari telur (orak-arik atau mata sapi), sosis, bacon, jamur tumis, tomat panggang, kacang panggang, dan roti panggang.</small>
+                                        <small class="fst-italic">Sarapan lengkap ala Inggris yang terdiri dari telur
+                                            (orak-arik atau mata sapi), sosis, bacon, jamur tumis, tomat panggang,
+                                            kacang panggang, dan roti panggang.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Crispy Bacon and Cheese Waffles.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Crispy Bacon and Cheese Waffles.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Crispy Bacon and Cheese Waffles</span>
                                             <span class="text-primary">105k</span>
                                         </h5>
-                                        <small class="fst-italic">variasi waffle yang gurih dan lezat. Waffle ini dibuat dengan adonan yang diberi tambahan potongan bacon renyah dan keju, sehingga menghasilkan kombinasi rasa yang kaya dan tekstur yang menarik.</small>
+                                        <small class="fst-italic">variasi waffle yang gurih dan lezat. Waffle ini dibuat
+                                            dengan adonan yang diberi tambahan potongan bacon renyah dan keju, sehingga
+                                            menghasilkan kombinasi rasa yang kaya dan tekstur yang menarik.</small>
                                     </div>
                                 </div>
                             </div>
@@ -294,67 +342,84 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Grilled Chicken Salad.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Grilled Chicken Salad.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Grilled Chicken Salad</span>
                                             <span class="text-primary">165k</span>
                                         </h5>
-                                        <small class="fst-italic">Salad hijau dengan potongan ayam panggang, tomat, mentimun, wortel, dan dressing pilihan</small>
+                                        <small class="fst-italic">Salad hijau dengan potongan ayam panggang, tomat,
+                                            mentimun, wortel, dan dressing pilihan</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Classic Burger.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Classic Burger.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Classic Burger</span>
                                             <span class="text-primary">55k</span>
                                         </h5>
-                                        <small class="fst-italic">Burger daging sapi panggang dengan keju, selada, tomat, bawang, dan saus.</small>
+                                        <small class="fst-italic">Burger daging sapi panggang dengan keju, selada,
+                                            tomat, bawang, dan saus.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Vegetable Stir-fry.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Vegetable Stir-fry.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Vegetable Stir-fry</span>
                                             <span class="text-primary">85k</s></span>
                                         </h5>
-                                        <small class="fst-italic">Tumis sayuran segar dengan pilihan saus seperti saus tiram atau saus kedelai.</small>
+                                        <small class="fst-italic">Tumis sayuran segar dengan pilihan saus seperti saus
+                                            tiram atau saus kedelai.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Soup and Sandwich Combo.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Soup and Sandwich Combo.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Soup and Sandwich Combo</span>
                                             <span class="text-primary">95k</span>
                                         </h5>
-                                        <small class="fst-italic">Pilihan sup harian dengan setengah sandwich (misalnya, sandwich ayam panggang atau tuna).</small>
+                                        <small class="fst-italic">Pilihan sup harian dengan setengah sandwich (misalnya,
+                                            sandwich ayam panggang atau tuna).</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Stuffed Bell Peppers.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Stuffed Bell Peppers.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Stuffed Bell Peppers ( 50% OFF )</span>
-                                            <span class="text-primary">125k <s style="color:red;font-size:12px;text-decoration:strike;">225k</s></span>
+                                            <span class="text-primary">125k <s
+                                                    style="color:red;font-size:12px;text-decoration:strike;">225k</s></span>
                                         </h5>
-                                        <small class="fst-italic">Paprika yang diisi dengan campuran nasi, sayuran, dan kacang-kacangan.</small>
+                                        <small class="fst-italic">Paprika yang diisi dengan campuran nasi, sayuran, dan
+                                            kacang-kacangan.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Margherita Pizza.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Margherita Pizza.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Margherita Pizza</span>
@@ -366,25 +431,30 @@
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Bento Box.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Bento Box.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Bento Box</span>
                                             <span class="text-primary">165k</span>
                                         </h5>
-                                        <small class="fst-italic">Kotak makan siang dengan berbagai hidangan seperti nasi, daging, dan sayuran.</small>
+                                        <small class="fst-italic">Kotak makan siang dengan berbagai hidangan seperti
+                                            nasi, daging, dan sayuran.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Pasta Carbonara.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Pasta Carbonara.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Pasta Carbonara</span>
                                             <span class="text-primary">125k</span>
                                         </h5>
-                                        <small class="fst-italic">Pasta dengan saus krim, bacon, dan keju parmesan.</small>
+                                        <small class="fst-italic">Pasta dengan saus krim, bacon, dan keju
+                                            parmesan.</small>
                                     </div>
                                 </div>
                             </div>
@@ -394,97 +464,121 @@
                         <div class="row g-4">
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Grilled Salmon Fillet.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Grilled Salmon Fillet.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Grilled Salmon Fillet</span>
                                             <span class="text-primary">275k</span>
                                         </h5>
-                                        <small class="fst-italic">Fillet salmon panggang dengan rempah-rempah, disajikan dengan pilihan sisi seperti nasi atau sayuran panggang.</small>
+                                        <small class="fst-italic">Fillet salmon panggang dengan rempah-rempah, disajikan
+                                            dengan pilihan sisi seperti nasi atau sayuran panggang.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Pasta Aglio e Olio.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Pasta Aglio e Olio.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Pasta Aglio e Olio</span>
                                             <span class="text-primary">150k</span>
                                         </h5>
-                                        <small class="fst-italic">Pasta spaghetti dengan saus minyak zaitun, bawang putih, dan cabe, disajikan dengan parmesan parut.</small>
+                                        <small class="fst-italic">Pasta spaghetti dengan saus minyak zaitun, bawang
+                                            putih, dan cabe, disajikan dengan parmesan parut.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Steak with Mashed Potatoes.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Steak with Mashed Potatoes.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Steak with Mashed Potatoes</span>
                                             <span class="text-primary">270k</span>
                                         </h5>
-                                        <small class="fst-italic">Steak sapi panggang dengan saus jus, disajikan dengan kentang tumbuk dan sayuran panggang.</small>
+                                        <small class="fst-italic">Steak sapi panggang dengan saus jus, disajikan dengan
+                                            kentang tumbuk dan sayuran panggang.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Vegetarian Buddha Bowl.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Vegetarian Buddha Bowl.jpg" alt=""
+                                        style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Vegetarian Buddha Bowl</span>
                                             <span class="text-primary">150k</span>
                                         </h5>
-                                        <small class="fst-italic"></small> Mangkuk besar berisi nasi atau quinoa, sayuran panggang, kacang-kacangan, dan saus tahini.
+                                        <small class="fst-italic"></small> Mangkuk besar berisi nasi atau quinoa,
+                                        sayuran panggang, kacang-kacangan, dan saus tahini.
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Duck Confit.jpeg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Duck Confit.jpeg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Duck Confit</span>
                                             <span class="text-primary">175k</span>
                                         </h5>
-                                        <small class="fst-italic">Bebek yang dimasak perlahan dalam lemaknya sendiri hingga dagingnya sangat empuk, disajikan dengan kentang goreng dan salad hijau.</small>
+                                        <small class="fst-italic">Bebek yang dimasak perlahan dalam lemaknya sendiri
+                                            hingga dagingnya sangat empuk, disajikan dengan kentang goreng dan salad
+                                            hijau.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Lamb Chops.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Lamb Chops.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Lamb Chops</span>
                                             <span class="text-primary">250k</span>
                                         </h5>
-                                        <small class="fst-italic">Potongan daging domba yang dipanggang hingga empuk, biasanya disajikan dengan saus rosemary atau mint, dan dilengkapi dengan sayuran musiman serta kentang.</small>
+                                        <small class="fst-italic">Potongan daging domba yang dipanggang hingga empuk,
+                                            biasanya disajikan dengan saus rosemary atau mint, dan dilengkapi dengan
+                                            sayuran musiman serta kentang.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Risotto.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Risotto.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Risotto</span>
                                             <span class="text-primary">125k</span>
                                         </h5>
-                                        <small class="fst-italic">Nasi Italia yang dimasak dengan kaldu hingga creamy, seringkali ditambahkan dengan bahan-bahan seperti jamur, udang, atau asparagus, serta keju parmesan untuk rasa yang kaya.</small>
+                                        <small class="fst-italic">Nasi Italia yang dimasak dengan kaldu hingga creamy,
+                                            seringkali ditambahkan dengan bahan-bahan seperti jamur, udang, atau
+                                            asparagus, serta keju parmesan untuk rasa yang kaya.</small>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-lg-6">
                                 <div class="d-flex align-items-center">
-                                    <img class="flex-shrink-0 img-fluid rounded" src="{{ asset('')}}frontend/img/Seafood Paella.jpg" alt="" style="width: 80px;">
+                                    <img class="flex-shrink-0 img-fluid rounded"
+                                        src="{{ asset('')}}frontend/img/Seafood Paella.jpg" alt="" style="width: 80px;">
                                     <div class="w-100 d-flex flex-column text-start ps-4">
                                         <h5 class="d-flex justify-content-between border-bottom pb-2">
                                             <span>Seafood Paella</span>
                                             <span class="text-primary">245k</span>
                                         </h5>
-                                        <small class="fst-italic">Hidangan nasi Spanyol yang dimasak dengan saffron, kaldu, dan berbagai jenis seafood seperti udang, kerang, dan cumi. Dilengkapi dengan paprika dan kacang polong.</small>
+                                        <small class="fst-italic">Hidangan nasi Spanyol yang dimasak dengan saffron,
+                                            kaldu, dan berbagai jenis seafood seperti udang, kerang, dan cumi.
+                                            Dilengkapi dengan paprika dan kacang polong.</small>
                                     </div>
                                 </div>
                             </div>
@@ -502,7 +596,8 @@
         <div class="row g-0">
             <div class="col-md-6">
                 <div class="video">
-                    <button type="button" class="btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
+                    <button type="button" class="btn-play" data-bs-toggle="modal"
+                        data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                         <span></span>
                     </button>
                 </div>
@@ -527,23 +622,25 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating date" id="date3" data-target-input="nearest">
-                                    <input type="text" class="form-control datetimepicker-input" id="datetime" placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
+                                    <input type="text" class="form-control datetimepicker-input" id="datetime"
+                                        placeholder="Date & Time" data-target="#date3" data-toggle="datetimepicker" />
                                     <label for="datetime">Date & Time</label>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="form-floating">
                                     <select class="form-select" id="select1">
-                                      <option value="1">People 1</option>
-                                      <option value="2">People 2</option>
-                                      <option value="3">People 3</option>
+                                        <option value="1">People 1</option>
+                                        <option value="2">People 2</option>
+                                        <option value="3">People 3</option>
                                     </select>
                                     <label for="select1">No Of People</label>
-                                  </div>
+                                </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea class="form-control" placeholder="Special Request" id="message" style="height: 100px"></textarea>
+                                    <textarea class="form-control" placeholder="Special Request" id="message"
+                                        style="height: 100px"></textarea>
                                     <label for="message">Special Request</label>
                                 </div>
                             </div>
@@ -567,8 +664,8 @@
                 <div class="modal-body">
                     <!-- 16:9 aspect ratio -->
                     <div class="ratio ratio-16x9">
-                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen allowscriptaccess="always"
-                            allow="autoplay"></iframe>
+                        <iframe class="embed-responsive-item" src="" id="video" allowfullscreen
+                            allowscriptaccess="always" allow="autoplay"></iframe>
                     </div>
                 </div>
             </div>
@@ -657,9 +754,11 @@
             <div class="owl-carousel testimonial-carousel">
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="{{ asset('')}}frontend/img/testimonial-1.jpg" style="width: 50px; height: 50px;">
+                        <img class="img-fluid flex-shrink-0 rounded-circle"
+                            src="{{ asset('')}}frontend/img/testimonial-1.jpg" style="width: 50px; height: 50px;">
                         <div class="ps-3">
                             <h5 class="mb-1">Client Name</h5>
                             <small>Profession</small>
@@ -668,9 +767,11 @@
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="{{ asset('')}}frontend/img/testimonial-2.jpg" style="width: 50px; height: 50px;">
+                        <img class="img-fluid flex-shrink-0 rounded-circle"
+                            src="{{ asset('')}}frontend/img/testimonial-2.jpg" style="width: 50px; height: 50px;">
                         <div class="ps-3">
                             <h5 class="mb-1">Client Name</h5>
                             <small>Profession</small>
@@ -679,9 +780,11 @@
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="{{ asset('')}}frontend/img/testimonial-3.jpg" style="width: 50px; height: 50px;">
+                        <img class="img-fluid flex-shrink-0 rounded-circle"
+                            src="{{ asset('')}}frontend/img/testimonial-3.jpg" style="width: 50px; height: 50px;">
                         <div class="ps-3">
                             <h5 class="mb-1">Client Name</h5>
                             <small>Profession</small>
@@ -690,9 +793,11 @@
                 </div>
                 <div class="testimonial-item bg-transparent border rounded p-4">
                     <i class="fa fa-quote-left fa-2x text-primary mb-3"></i>
-                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam</p>
+                    <p>Dolor et eos labore, stet justo sed est sed. Diam sed sed dolor stet amet eirmod eos labore diam
+                    </p>
                     <div class="d-flex align-items-center">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src="{{ asset('')}}frontend/img/testimonial-4.jpg" style="width: 50px; height: 50px;">
+                        <img class="img-fluid flex-shrink-0 rounded-circle"
+                            src="{{ asset('')}}frontend/img/testimonial-4.jpg" style="width: 50px; height: 50px;">
                         <div class="ps-3">
                             <h5 class="mb-1">Client Name</h5>
                             <small>Profession</small>
@@ -759,7 +864,8 @@
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <textarea class="form-control" placeholder="Leave a message here" id="message" style="height: 150px"></textarea>
+                                        <textarea class="form-control" placeholder="Leave a message here" id="message"
+                                            style="height: 150px"></textarea>
                                         <label for="message">Message</label>
                                     </div>
                                 </div>
@@ -774,7 +880,7 @@
         </div>
     </div>
     <!-- Contact End -->
-    
+
 
     <!-- Footer Start -->
     <div class="container-fluid bg-dark text-light footer pt-5 mt-5 wow fadeIn" data-wow-delay="0.1s">
@@ -811,8 +917,10 @@
                     <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Newsletter</h4>
                     <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
+                        <input class="form-control border-primary w-100 py-3 ps-4 pe-5" type="text"
+                            placeholder="Your email">
+                        <button type="button"
+                            class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
                     </div>
                 </div>
             </div>
@@ -821,7 +929,7 @@
             <div class="copyright">
                 <div class="row">
                     <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">AslanAsilon</a>, 
+                        &copy; <a class="border-bottom" href="#">AslanAsilon</a>,
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <div class="footer-menu">
